@@ -1,0 +1,51 @@
+¿Qué es machine learning?
+
+Modelos a los que se les da datos de entrenamiento para que aprendan y que poco a poco se vayan ajustando usando modelos matemáticos y estadísticos para después usar este modelo entrenado para hacer predicciones en datos que nunca ha visto.
+
+En ML el modelo aprende por si solo.
+
+Nosotros nos encargamos de encontrar datos de entrada suficientes y elegimos el modelo y algoritmo adecuado.
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/51c9ad4a-408e-4938-bce7-bec62e92db82/6362ff25-e36b-403f-8615-f4ba320dec3b/Untitled.png)
+
+# Primeros modelos
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/51c9ad4a-408e-4938-bce7-bec62e92db82/855522a8-98d7-478b-a986-67ddeb960648/Untitled.png)
+
+## Tipos de algoritmo de ML
+
+## 1. Aprendizaje supervisado.
+
+<aside>
+💡 Se cuenta con un set de datos con características y la etiqueta correcta
+
+</aside>
+
+Se utiliza para:
+
+1. **Regresión:** Predecir un dato numérico continuo.
+2. **Clasificación:** Predecir la categoría correcta.
+
+Se usa para clasificación de imágenes, reconocimiento de voz, diagnósticos médicos, detección de fraudes.
+
+## 2. Aprendizaje no supervisado.
+
+<aside>
+💡 Contamos con datos sin etiquetas. El modelo busca patrones y relaciones.
+
+</aside>
+
+## 3. Aprendizaje por refuerzo.
+
+<aside>
+💡 Un agente aprende en un ambiente por medio de acciones y retroalimentación.
+
+</aside>
+
+# Los datos
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/51c9ad4a-408e-4938-bce7-bec62e92db82/202ebe65-99bd-4cf1-9f37-bf4bf66da326/Untitled.png)
+
+Optención y preparación: Datos inconsistentes
+
+# Regresión lineal
